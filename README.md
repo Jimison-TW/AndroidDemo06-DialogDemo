@@ -1,6 +1,6 @@
 # AndroidDemo06-DialogDemo
 
-![image](https://github.com/Jimison-TW/AndroidDemo05-FragmentDemo/blob/master/Snap18.jpg?raw=true)
+![image](https://github.com/Jimison-TW/AndroidDemo06-DialogDemo/blob/master/Snap19.jpg?raw=true)
 
 ## 開發版本
 Andorid 3.1.2 </br>
